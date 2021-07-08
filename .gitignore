@@ -4,6 +4,10 @@
 *.out
 *.pdf
 *.toc
+*.bbl
+*.blg
 *.run.xml
 *.synctex.gz
+*.aux.bbl
+*.aus.blg
 
